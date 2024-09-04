@@ -1,2 +1,3 @@
-# PreCourse-Henrry
-Este es mi primer repo de prueba full stack
+Eli Francisco Mejia
+prueba de como clonar un repositorio
+
